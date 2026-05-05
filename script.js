@@ -1,4 +1,3 @@
-// --- WEEK START DATES ---
 const summerWeeks = [
   { week: 1, start: "2026-05-18" },
   { week: 2, start: "2026-05-25" },
